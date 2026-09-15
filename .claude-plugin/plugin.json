@@ -1,0 +1,9 @@
+{
+  "name": "solo-stack-starter",
+  "version": "1.0.0",
+  "description": "Five free Claude Code skills for the business side of freelancing: business context setup, meeting notes to actions, invoice generator, weekly review, LinkedIn post.",
+  "author": {
+    "name": "Solo Stack"
+  },
+  "keywords": ["freelance", "consulting", "business", "invoices", "meetings"]
+}

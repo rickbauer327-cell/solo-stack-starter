@@ -1,0 +1,13 @@
+{
+  "name": "solo-stack-starter",
+  "owner": {
+    "name": "Solo Stack"
+  },
+  "plugins": [
+    {
+      "name": "solo-stack-starter",
+      "source": "./",
+      "description": "Five free Claude Code skills for the business side of freelancing."
+    }
+  ]
+}

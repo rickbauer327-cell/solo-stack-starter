@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>INV-0001 — Acme Coffee</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #1a1a1a;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 24px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 2px solid #1a1a1a;
+    padding-bottom: 16px;
+    margin-bottom: 24px;
+  }
+  .header h1 {
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin: 0;
+  }
+  .biz strong { font-size: 16px; }
+  .meta { text-align: right; }
+  .meta div { margin-bottom: 2px; }
+  .bill-to {
+    margin-bottom: 28px;
+  }
+  .bill-to h2 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #666;
+    margin-bottom: 6px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 24px;
+  }
+  th, td {
+    text-align: left;
+    padding: 8px 6px;
+  }
+  th {
+    border-bottom: 1px solid #1a1a1a;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #666;
+  }
+  td.num, th.num { text-align: right; }
+  tbody tr td { border-bottom: 1px solid #eee; }
+  .totals {
+    width: 100%;
+    margin-bottom: 32px;
+  }
+  .totals table { margin-bottom: 0; }
+  .totals td { padding: 6px; }
+  .totals .label { text-align: right; color: #444; }
+  .totals .amount { text-align: right; width: 120px; }
+  .totals .total-row td {
+    border-top: 2px solid #1a1a1a;
+    font-weight: 700;
+    font-size: 16px;
+    color: #0b6e4f;
+    padding-top: 10px;
+  }
+  .notes { font-size: 12.5px; color: #333; }
+  .notes p { margin: 4px 0; }
+  .thanks { margin-top: 24px; font-weight: 600; }
+  @media print {
+    body { margin: 0; padding: 0 12mm; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="biz">
+    <strong>Reyes Web Studio</strong><br>
+    Dana Reyes<br>
+    Lisbon, Portugal<br>
+    reyesweb.example
+  </div>
+  <div class="meta">
+    <h1>INVOICE</h1>
+    <div>INV-0001</div>
+    <div>Issued: 2026-09-15</div>
+    <div>Due: 2026-09-29</div>
+  </div>
+</div>
+
+<div class="bill-to">
+  <h2>Bill to</h2>
+  Acme Coffee<br>
+  Sam Ortiz<br>
+  sam@acmecoffee.example
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Description</th>
+      <th class="num">Qty</th>
+      <th class="num">Rate</th>
+      <th class="num">Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Checkout redesign — 50% deposit (project total: €2,600.00)</td>
+      <td class="num">1</td>
+      <td class="num">€1,300.00</td>
+      <td class="num">€1,300.00</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="totals">
+  <table>
+    <tr>
+      <td class="label" style="width:100%;">Subtotal</td>
+      <td class="amount">€1,300.00</td>
+    </tr>
+    <tr class="total-row">
+      <td class="label">TOTAL</td>
+      <td class="amount">€1,300.00</td>
+    </tr>
+  </table>
+</div>
+
+<div class="notes">
+  <p><strong>Payment:</strong> Bank transfer (details on request), Wise</p>
+  <p><strong>Terms:</strong> 50% on signing, 50% on delivery. Net 14. Late fee 2% per month after due date.</p>
+  <p>VAT not applicable (small business exemption).</p>
+</div>
+
+<div class="thanks">Thank you.</div>
+
+</body>
+</html>
