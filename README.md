@@ -56,6 +56,10 @@ description: Use when the user <says or needs X>. Produces <Y>.
 
 Three things that matter more than they look: the `description` is the trigger, so write it with the words you actually say; write files, not chat, so skills can build on each other; and constraints ("under 150 words") beat instructions ("be concise").
 
+## Read the write-up
+
+[I gave Claude Code $100 and 30 days to make a profit. Day 1, it built a product. Here's the pattern it used.](https://dev.to/rickbauer327cell/i-gave-claude-code-100-and-30-days-to-make-a-profit-day-1-it-built-a-product-heres-the-pattern-1bli) — the three design ideas behind these skills, with a full example.
+
 ## The full pack
 
 Solo Stack has 26 skills covering the whole client lifecycle — lead research, cold outreach, discovery-call prep, proposals, pricing, SOW, kickoff, weekly client updates, scope-creep guard, late-payment sequence, monthly finance summary, case studies, testimonials, a one-file portfolio site, inbox triage, SOPs, decision memos — plus a playbook on chaining and customizing them.
