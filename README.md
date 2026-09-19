@@ -46,8 +46,8 @@ That interview writes `.solo/business.md` — your services, rates, payment term
 
 [`examples/`](examples/) has unedited output from real runs against a fictional business — open either file in a browser:
 
-- **[A meeting recap](examples/meetings/2026-09-15-acme-coffee-checkout-redesign.html)** — from [these rough notes](examples/meetings/notes-input.txt) to decisions, an owned-action table, internal flags kept out of the client email, and a recap email ready to send.
-- **[An invoice](examples/invoices/INV-0001-acme-coffee.html)** — terms, tax note and due date all pulled from `business.md`. Prints to PDF as-is.
+- **[A meeting recap](https://rickbauer327-cell.github.io/solo-stack-starter/examples/meetings/2026-09-15-acme-coffee-checkout-redesign.html)** — from [these rough notes](examples/meetings/notes-input.txt) to decisions, an owned-action table, internal flags kept out of the client email, and a recap email ready to send.
+- **[An invoice](https://rickbauer327-cell.github.io/solo-stack-starter/examples/invoices/INV-0001-acme-coffee.html)** — terms, tax note and due date all pulled from `business.md`. Prints to PDF as-is.
 
 ## The pattern, if you want to write your own
 

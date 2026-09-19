@@ -4,10 +4,10 @@ Unedited output from real runs against the fictional business in [`.solo/busines
 
 | Input | Skill | Output |
 |---|---|---|
-| [rough call notes](meetings/notes-input.txt) | `/meeting-notes-to-actions` | [**rendered recap**](meetings/2026-09-15-acme-coffee-checkout-redesign.html) · [markdown the skill wrote](meetings/2026-09-15-acme-coffee-checkout-redesign.md) |
-| "Invoice Acme Coffee for the 50% deposit, project value 2600 EUR" | `/invoice-generator` | [**invoice**](invoices/INV-0001-acme-coffee.html) · [markdown copy](invoices/INV-0001-acme-coffee.md) |
+| [rough call notes](meetings/notes-input.txt) | `/meeting-notes-to-actions` | [**rendered recap**](https://rickbauer327-cell.github.io/solo-stack-starter/examples/meetings/2026-09-15-acme-coffee-checkout-redesign.html) · [markdown the skill wrote](meetings/2026-09-15-acme-coffee-checkout-redesign.md) |
+| "Invoice Acme Coffee for the 50% deposit, project value 2600 EUR" | `/invoice-generator` | [**invoice**](https://rickbauer327-cell.github.io/solo-stack-starter/examples/invoices/INV-0001-acme-coffee.html) · [markdown copy](invoices/INV-0001-acme-coffee.md) |
 
-Open either `.html` in a browser. Both print cleanly to PDF — the invoice is what a client receives.
+Those two links render live (GitHub shows raw HTML source instead). Both print cleanly to PDF — the invoice is what a client receives.
 
 **What to look for in the recap**, because it is the whole point:
 
