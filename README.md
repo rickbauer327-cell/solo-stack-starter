@@ -44,7 +44,7 @@ That interview writes `.solo/business.md` — your services, rates, payment term
 
 ## See the output before you install
 
-[`examples/`](examples/) has unedited output from real runs against a fictional business — open either file in a browser:
+[`examples/`](examples/) has unedited output from real runs against a fictional business. No install needed — these two render live in your browser:
 
 - **[A meeting recap](https://rickbauer327-cell.github.io/solo-stack-starter/examples/meetings/2026-09-15-acme-coffee-checkout-redesign.html)** — from [these rough notes](examples/meetings/notes-input.txt) to decisions, an owned-action table, internal flags kept out of the client email, and a recap email ready to send.
 - **[An invoice](https://rickbauer327-cell.github.io/solo-stack-starter/examples/invoices/INV-0001-acme-coffee.html)** — terms, tax note and due date all pulled from `business.md`. Prints to PDF as-is.
