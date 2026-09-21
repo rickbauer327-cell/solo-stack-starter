@@ -1,5 +1,11 @@
 # Examples
 
+## Start here: one client, start to finish
+
+**[The full chain, rendered](https://rickbauer327-cell.github.io/solo-stack-starter/examples/northvale/)** — rough discovery-call notes → `/proposal-writer` → `/sow-generator` → `/scope-creep-guard`. Four skills, each reading the files the last one wrote. Every file unedited: [notes](northvale/1-discovery-notes.txt) · [proposal](northvale/2-proposal.md) · [SOW](northvale/3-statement-of-work.md) · [change request](northvale/4-change-request.md)
+
+## Single skills
+
 Unedited output from real runs against the fictional business in [`.solo/business.md`](.solo/business.md). Nothing here was touched by hand.
 
 | Input | Skill | Output |

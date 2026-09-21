@@ -1,0 +1,11 @@
+Discovery call, 21 Sep. Priya Raman, ops lead at Northvale Tea (DTC tea brand, ~18 staff, Shopify).
+Found me through a Shopify partner directory.
+
+Problem: mobile checkout converts at 1.1%, desktop at 2.9%. They think it's the payment step but aren't sure.
+Traffic is ~60% mobile. Ran a new theme in June, no change. Priya says "we're basically lighting the ad spend on fire."
+Tried: new theme (June), an upsell app they since uninstalled.
+Success = mobile conversion "at least close to desktop" before Black Friday. Hard deadline: creative goes live 7 Nov.
+Constraints: they can't change the payment provider (locked in until March). Two people need to sign off - Priya and the founder, Mo.
+Priya mentioned "we spent about 9k on the theme thing and got nothing" - unprompted.
+Asked me how quickly I could start. Said their dev is part-time, 1 day/week.
+They want to keep the current design language, not a rebrand.

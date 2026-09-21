@@ -46,6 +46,7 @@ That interview writes `.solo/business.md` — your services, rates, payment term
 
 [`examples/`](examples/) has unedited output from real runs against a fictional business. No install needed — these two render live in your browser:
 
+- **[One client, start to finish](https://rickbauer327-cell.github.io/solo-stack-starter/examples/northvale/)** — rough call notes become a proposal, a statement of work, then a priced change order that quotes the SOW back. Four skills, each reading what the last one wrote. *(Three of those four are in the paid pack; this is what the chaining actually looks like.)*
 - **[A meeting recap](https://rickbauer327-cell.github.io/solo-stack-starter/examples/meetings/2026-09-15-acme-coffee-checkout-redesign.html)** — from [these rough notes](examples/meetings/notes-input.txt) to decisions, an owned-action table, internal flags kept out of the client email, and a recap email ready to send.
 - **[An invoice](https://rickbauer327-cell.github.io/solo-stack-starter/examples/invoices/INV-0001-acme-coffee.html)** — terms, tax note and due date all pulled from `business.md`. Prints to PDF as-is.
 
